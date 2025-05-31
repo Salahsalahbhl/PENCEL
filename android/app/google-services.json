@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1076420438330",
+    "project_id": "salah-pincel",
+    "storage_bucket": "salah-pincel.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076420438330:android:4b663512fef6c4b5634803",
+        "android_client_info": {
+          "package_name": "com.salahpp1.pp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfomso0uUoAdVe40pJkbH36nq7ILBJi3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

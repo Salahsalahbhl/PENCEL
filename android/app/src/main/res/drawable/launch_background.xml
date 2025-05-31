@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg >
+<svg width="600" height="400">
+    <rect width="300" height="400" x="0"  y="0"  fill="green"/>
+    <rect width="300" height="400" x="300" y="0" fill="white"/>
+    
+    <circle cx="300" cy="200" r="120" fill="reed"/>
+    <circle cx="325" cy="200" r="100" fill="white"/>
+    
+    <polygon points="" fill="red"/>
+</svg>
+
+
+p= 405,155
+p= 375,255
+p= 455,190
+p= 360,190
+p= 445,255
